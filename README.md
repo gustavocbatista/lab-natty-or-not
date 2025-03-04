@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# DietaJá ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pela imagem de um produto descobrir qual é a sua caloria, se tem algum componente que voce não pode digirir, se voce pode comer por conta da sua dieta
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- GENAI - ChatGPT
+- Leitura de imagem
+- Melhor texto para prompt para buscar a informação desejada
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em criar algo que seja simples para as pessoas que estão no processo de emagrecimento, então a pessoa poderá tirar uma foto ou usar alguma imagem da iternet para descobrir as calorias e se pode ou não comer aquele produto. 
+Também pode ser usado para descobrir se aquele produto contem algum componente alergico que a pessoa pode passar mal comendo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No exemplo abaixo coloquei a foto de um apcote de bolacha trakinas e ele me retornou as calorias, que era o resultado esperado.
+
+Olá! Como nutricionista, posso te ajudar a entender melhor as informações nutricionais do biscoito Trakinas sabor chocolate e te orientar sobre o consumo.
+
+Informações Nutricionais:
+
+Valor Energético: 143 kcal por porção (76g)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Achei bem interessante
